@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffa032;
+    padding: 10px 20px;
+}
+
+
+.Menu .btn {
+    background-color: #ffa032;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.Menu .btn:hover {
+    background-color: #ffb23f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.Menu .icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 400;
+    margin-top: 40%;
+    color: #aaaaaa;
+}
