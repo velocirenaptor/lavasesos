@@ -3,7 +3,7 @@
 comandos q debes usar
 
 para instalar dependencias
-### npm install
+### `npm install`
 
 para abrir la app
-### npm start
+### npm start`
