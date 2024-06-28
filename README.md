@@ -2,6 +2,8 @@
 
 comandos q debes usar
 
+para instalar dependencias
+###npm install
 
-##npm install
-##npm start
+para abrir la app
+###npm start
